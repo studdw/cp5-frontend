@@ -12,11 +12,11 @@ Checkpoint 5 de Frontend, FIAP, 2º semestre de ADS.
 
 ## Deploy
 
-🔗
+🔗 https://cp5-frontend-beta.vercel.app/
 
 ## Tela do catálogo
 
-![Tela do catálogo](./docs/catalogo.png)
+![Tela do catálogo](./public/catalogo.png)
 
 ## Funcionalidades
 
